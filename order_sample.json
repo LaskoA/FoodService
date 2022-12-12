@@ -1,0 +1,40 @@
+{
+  "orders":[
+    {
+      "id": 1,
+      "date": "2018-12-19 09:26:03.478039",
+      "items":
+            {
+              "Pizza Polo": 10,
+              "Pizza Veggie": 9,
+              "Coca-Cola": 3
+            },
+      "total": 22,
+      "address": "Main street, 11",
+      "point_id": 1
+    },
+    {
+      "id": 2,
+      "date": "2022-08-17 19:24:05.478039",
+      "items": {
+        "Pizza Carnivore": 12,
+        "Pizza Margaritha": 8,
+        "Sprite": 3
+      },
+      "total": 23,
+      "address": "Avenue A, 9",
+      "point_id": 1
+    },
+    {
+      "id": 3,
+      "date": "2021-01-01 11:20:03.478039",
+      "items": {
+        "Sushi Set": 23,
+        "Mineral Water": 1
+      },
+  "total": 24,
+  "address": "Station street 12/7",
+  "point_id": 1
+}
+    ]
+}

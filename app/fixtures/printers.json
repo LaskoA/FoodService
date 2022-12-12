@@ -1,0 +1,42 @@
+[
+  {
+    "model": "app.printer",
+    "pk": 1,
+    "fields": {
+      "name": "First Printer",
+      "api_key": "01051990",
+      "check_type": "Kitchen",
+      "point_id": 2
+    }
+  },
+  {
+    "model": "app.printer",
+    "pk": 2,
+    "fields": {
+      "name": "Second Printer",
+      "api_key": "11121900",
+      "check_type": "Client",
+      "point_id": 2
+    }
+  },
+  {
+    "model": "app.printer",
+    "pk": 3,
+    "fields": {
+      "name": "Third Printer",
+      "api_key": "07031988",
+      "check_type": "Kitchen",
+      "point_id": 3
+    }
+  },
+  {
+    "model": "app.printer",
+    "pk": 4,
+    "fields": {
+      "name": "Fourth Printer",
+      "api_key": "08111900",
+      "check_type": "Client",
+      "point_id": 3
+    }
+  }
+]
